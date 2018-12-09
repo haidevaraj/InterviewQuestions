@@ -9,6 +9,7 @@ public class Rotatenumber {
 	    {
 	        System.out.print (((i + j) % 5) + 1);
 	    }
+	    System.out.println (); 
 	    System.out.println ();
 	}
 	}
